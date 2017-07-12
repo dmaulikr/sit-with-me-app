@@ -1,0 +1,6 @@
+framework module Pods_sit_with_me {
+  umbrella header "Pods-sit with me-umbrella.h"
+
+  export *
+  module * { export * }
+}

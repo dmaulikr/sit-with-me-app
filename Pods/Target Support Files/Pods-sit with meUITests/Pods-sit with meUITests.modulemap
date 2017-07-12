@@ -1,0 +1,6 @@
+framework module Pods_sit_with_meUITests {
+  umbrella header "Pods-sit with meUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
